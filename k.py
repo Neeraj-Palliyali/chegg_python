@@ -1,0 +1,1 @@
+print('CCCC chegg IndiaCC'. strip( 'C'). split(' ',0))
